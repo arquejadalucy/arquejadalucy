@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arquejadalucy
-- 👀 I'm interested in data science
-- 🌱 I’m a Computer Engineering Student
-- 🌱 I’m currently learning data structure and algorithms in C
+- 👋 Oi, sou a Lucy Arquejada
+- 👀 Tenho interesse em Data Science
+- 🌱 Estudo Engenharia da Computação
+- 🌱 Estou aprendendo Algoritmos e Estrutura de Dados em C
 
 
 
