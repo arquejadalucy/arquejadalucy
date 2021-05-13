@@ -1,5 +1,4 @@
 - 👋 Oi, sou a Lucy Arquejada
-- 👀 Tenho interesse em Data Science
 - 🌱 Estudo Engenharia da Computação
 - 🌱 Estou aprendendo Algoritmos e Estrutura de Dados em C
 
