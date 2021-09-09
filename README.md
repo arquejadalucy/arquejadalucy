@@ -1,6 +1,7 @@
 - 👋 Oi, sou a Lucy Arquejada
 - 🌱 Estudo Engenharia da Computação
-- 🌱 Estou aprendendo Algoritmos e Estrutura de Dados em C
+- ✨ Bolsista no projeto "Promovendo Interações com Egressas e Egressos do IFSP Câmpus Piracicaba"
+
 
 
 
