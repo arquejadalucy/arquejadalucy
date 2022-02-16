@@ -1,7 +1,6 @@
 - 👋 Oi, sou a Lucy Arquejada
 - 🌱 Estudo Engenharia da Computação
-- ✨ Bolsista no projeto "Promovendo Interações com Egressas e Egressos do IFSP Câmpus Piracicaba"
-
+- ✨ Estagiária de Desenvolvimento de Software na CI&T
 
 
 
