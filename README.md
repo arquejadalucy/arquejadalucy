@@ -1,4 +1,4 @@
-- 👋 Oi, sou a Lucy Arquejada
+- 👋 Oi, sou a Lucy
 - 🌱 Estudo Engenharia da Computação no IFSP Campus Piracicaba
 - ✨ Estagiária de Desenvolvimento de Software na CI&T
 
