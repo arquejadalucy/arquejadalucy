@@ -1,6 +1,6 @@
-- 👋 Oi, sou a Lucy
-- 🌱 Estudo Engenharia da Computação no IFSP Campus Piracicaba
-- ✨ Estagiária de Desenvolvimento de Software na CI&T
+- 👋 Hi, i'm Lucy
+- 🌱 Studying Computer Engineering at IFSP
+- ✨ Software Engineer Intern at Jusbrasil
 
 
 
