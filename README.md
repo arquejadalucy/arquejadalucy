@@ -19,4 +19,4 @@ arquejadalucy/arquejadalucy is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Snake animation](https://github.com/arquejadalucy/arquejadalucy/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/arquejadalucy/arquejadalucy/blob/output/github-contribution-grid-snake.gif)
