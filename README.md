@@ -1,6 +1,6 @@
 - 👋 Hi, i'm Lucy
 - 🌱 Studying Computer Engineering at IFSP
-- ✨ Software Engineer Intern at Jusbrasil
+- ✨ Software Engineer at CI&T 
 
 ### I'm learning
 
